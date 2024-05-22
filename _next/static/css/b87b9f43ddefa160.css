@@ -1,0 +1,10 @@
+.styles_dotMarker__4Wd5d {
+  animation: styles_ping__QwaYx 1s cubic-bezier(0, 0.2, 0.7, 0.1) infinite;
+}
+@keyframes styles_ping__QwaYx {
+  75%,
+  to {
+    transform: scale(1.5);
+    opacity: 0.1;
+  }
+}
